@@ -1,3 +1,3 @@
 "Hello!"
 "Nice to meet you!"
-"My name is Howard"
+"My name is Howard Man"
